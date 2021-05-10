@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hint_email">email</string>
+    <string name="hint_password">password</string>
+    <string name="button_next">Next</string>
+    <string name="cancel_button">Cancel</string>
+</resources>
